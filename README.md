@@ -40,7 +40,7 @@ Most recent and on-going applications:
 
 
 # Pre installation for Cantera 2.4
-The 2.4 version of Cantera , downloaded with ORCh at workdir/orch/Cantera, needs:
+The 2.4 version of Cantera is required https://cantera.org/blog/cantera-240-released.html, it needs:
 - C++ Boost librairies (Version 1.68, the newer don't work with Cantera) to run properly. 
 - SCONS compiler
 - https://sourceforge.net/projects/scons/files/scons/3.0.3/scons-3.0.3.tar.gz/download
